@@ -28,7 +28,7 @@ Aan het einde van ieder hoofdstuk staat een link om door te gaan naar het volgen
 * 2 [Ubuntu installeren](https://github.com/xanvierb/radboud-linux/tree/master/install_ubuntu)
 * 3 [Eerste kennismaking met Ubuntu](https://github.com/xanvierb/radboud-linux/tree/master/kennismaking)
 * 4 [Gebruikers en rechten](https://github.com/xanvierb/radboud-linux/tree/master/users)
-* 5 [Snap](https://github.com/xanvierb/radboud-linux/tree/master/Snap)
+* 5 [Snap](https://github.com/xanvierb/radboud-linux/tree/master/snap)
 * 6 [Play On Linux](https://github.com/xanvierb/radboud-linux/tree/master/playonlinux)
 * 7 [Desktop Environment](https://github.com/xanvierb/radboud-linux/tree/master/desktopenv)
 * 8 [Webserver](https://github.com/xanvierb/radboud-linux/tree/master/webserver)

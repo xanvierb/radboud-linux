@@ -1,5 +1,3 @@
-
-
 # Linux Hands-on sessie voor de Studie Vereniging CognAC
 
  ![](img/svgognac.png) ![](img/quintor.png)
@@ -22,4 +20,15 @@ Deze hands-on sessie zal een introductie geven op Gnu/Linux en je zal na deze se
 
 Aan het einde van ieder hoofdstuk staat een link om door te gaan naar het volgende hoofdstuk.
 
-Eerste oefening: [Aanmaken VM](https://github.com/xanvierb/radboud-linux/tree/master/aamaken_vm)
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://goo.gl/forms/4wmUrbcLVusNVlOP2
+
+## Oefeningen
+
+* 1 [Aanmaken VM](https://github.com/xanvierb/radboud-linux/tree/master/aamaken_vm)
+* 2 [Ubuntu installeren](https://github.com/xanvierb/radboud-linux/tree/master/install_ubuntu)
+* 3 [Eerste kennismaking met Ubuntu](https://github.com/xanvierb/radboud-linux/tree/master/kennismaking)
+* 4 [Gebruikers en rechten](https://github.com/xanvierb/radboud-linux/tree/master/users)
+* 5 [Snap](https://github.com/xanvierb/radboud-linux/tree/master/Snap)
+* 6 [Play On Linux](https://github.com/xanvierb/radboud-linux/tree/master/playonlinux)
+* 7 [Desktop Environment](https://github.com/xanvierb/radboud-linux/tree/master/desktopenv)
+* 8 [Webserver](https://github.com/xanvierb/radboud-linux/tree/master/webserver)

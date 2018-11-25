@@ -12,3 +12,4 @@ Dit is niet erg gebruiksvriendelijk en Snap lost dit probleem op. Op de website 
 Deze applicatie wordt gedraaid met WINE, een emulator voor Windows Applicaties. We gaan over dit onderwerp verder in het volgende hoofdstuk.
 
 :thumbsup: Volgende hoofdstuk [Play On Linux](../playonlinux/) :fast_forward:
+

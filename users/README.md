@@ -35,3 +35,4 @@ De commando's die je nodig hebt (naast de commando's die we al hebben behandeld)
 Je kunt gebruik maken van een [chmod calculator](https://chmod-calculator.com/)
 
 :thumbsup: Volgende hoofdstuk [Snap](../snap/) :fast_forward:
+

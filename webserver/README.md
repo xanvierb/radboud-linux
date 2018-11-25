@@ -22,3 +22,5 @@ Dit is alweer de laatste opdracht in deze reeks. Deze opdracht is wat meer uitzo
 </html>
 
 ```
+
+>  :tomato: Ik ontvang graag feedback over deze sessie, je kunt het hier achterlaten: https://goo.gl/forms/4wmUrbcLVusNVlOP2
